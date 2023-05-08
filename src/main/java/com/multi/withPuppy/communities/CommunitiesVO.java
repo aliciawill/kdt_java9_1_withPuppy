@@ -16,6 +16,7 @@ public class CommunitiesVO {
 	private int commu_view;
 	private Timestamp commu_date;
 	private int commu_like;
+	
 	public int getCommu_no() {
 		return commu_no;
 	}
