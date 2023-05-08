@@ -1,6 +1,6 @@
 package com.multi.withPuppy.shopping;
 
-public class CartVO {
+public class CartVO { 
 	private int cart_id;
 	private int product_id;
 	private int product_cnt;
