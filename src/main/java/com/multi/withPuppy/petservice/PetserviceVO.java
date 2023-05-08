@@ -3,7 +3,7 @@ package com.multi.withPuppy.petservice;
 public class PetserviceVO {
 	// MemberVo 가방에 넣은 데이터는 Member 테이블에 들어갈 예정
 	// 각 칼럼과 일치시켜 줌.
-	private int service_id;   
+	private int service_id;
 	private String service_name;
 	private String category;
 	private double latitude;
