@@ -8,6 +8,7 @@ public class PetVO {
 	private Date pet_age;
 	private String pet_kind;
 	private String pet_weight;
+	
 	public int getPet_owner() {
 		return pet_owner;
 	}
