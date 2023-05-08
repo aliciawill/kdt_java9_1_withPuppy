@@ -15,6 +15,8 @@ public class ReportVO {
 	private String location2;
 	private String location3;
 	private String content;
+	
+	
 	public int getNumber() {
 		return number;
 	}
