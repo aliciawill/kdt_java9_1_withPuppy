@@ -33,7 +33,7 @@
                 aria-current="page">Home</a></li> -->
 			<li class="nav-item"><a href="#" class="nav-link link-secondary">커뮤니티</a></li>
 			<li class="nav-item"><a href="shoppingList" class="nav-link link-secondary">쇼핑몰</a></li>
-			<li class="nav-item"><a href="listhospital?category3=동물병원" class="nav-link link-secondary">반려동물서비스</a></li>
+			<li class="nav-item"><a href="listhospital?category=동물병원" class="nav-link link-secondary">반려동물서비스</a></li>
 			<li class="nav-item"><a href="#" class="nav-link link-secondary">고객센터</a></li>
 			<li class="nav-item"><a href="#" class="nav-link link-secondary">유기견
 					신고</a></li>
