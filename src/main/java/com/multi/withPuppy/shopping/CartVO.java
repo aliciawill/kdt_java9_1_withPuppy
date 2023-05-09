@@ -5,7 +5,6 @@ public class CartVO {
 	private int product_id;
 	private int product_cnt;
 	private int user_id;
-	
 	public int getCart_id() {
 		return cart_id;
 	}
