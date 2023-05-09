@@ -4,6 +4,7 @@ import java.sql.Timestamp;
 
 public class AnswerVO {
 
+	//풀 리퀘스트 테스트~
 	private int ans_no;
 	private int ask_no;
 	private String ans_content;
